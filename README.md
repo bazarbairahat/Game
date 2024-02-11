@@ -1,3 +1,3 @@
-#  Drag and Drop
+#  Game JavaScript
 ## You can see the results here
-[DragDrop](https://bazarbairahat.github.io/DragDrop/)
+[Game](https://bazarbairahat.github.io/Game/)
